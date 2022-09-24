@@ -1,0 +1,11 @@
+package br.inatel.labs.labrest.client;
+
+public class WebClientDeleteCursoPeloId {
+	
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

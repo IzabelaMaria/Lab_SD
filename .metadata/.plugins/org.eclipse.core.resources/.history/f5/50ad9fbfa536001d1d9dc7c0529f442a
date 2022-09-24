@@ -1,0 +1,5 @@
+package br.inatel.labs.lab_rest_server.exception;
+
+public class CursoNaoEncontradoException {
+
+}
